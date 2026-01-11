@@ -5,7 +5,7 @@
 About Me: 
 - Languages: HTML, CSS, JavaScript, Python.
 - Databases and frameworks: SQLite, Django, Bootstrap.
-- Projects: Nervous System (Front End), Bee Brain (Hackathon collaborative project)
+- Projects: Nervous System (Front End), Bee Brain (Hackathon collaborative project).
 - Skills: Object Oriented Programming, Agile Methodology, Creative Problem solving, Rapid Learning.
 - Work Experience: Marketing (Creative Director at a Social media and Video editing company), local government (Lancashire County Council), and civil service (Charity Commission).
 - Base in Lancashire, UK. Open to remote Junior Software Developer opportunities. 
@@ -23,17 +23,3 @@ Hobbies:
 - Most importantly: spoiling my cat! 
 
 Reach me on LinkedIn
-<!--
-**nanamontford/nanamontford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
