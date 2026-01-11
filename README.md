@@ -1,8 +1,4 @@
 ## <h1 align="center">Nana Montford | Full Stack Developer</h1>
-
-
-
-
 ![Woman programming at home](https://github.com/user-attachments/assets/70203d77-df2a-4746-9fff-18e03c978e91)
 LinkedIn | Youtube <br> <br>
 About Me: 
@@ -15,9 +11,15 @@ About Me:
 
 What I'm working on: 
 - One a week challenge: Creating a complete project every week to continue to expand my skills. Here are some examples: 
-  - Tic Tac Tile | A classic game with a twist: create a custom mosaic as you play! | Front end: HTML, CSS, JavaScript 
+  - Tic Tac Tile: A classic game with a twist: create a custom mosaic as you play! - Front end: HTML, CSS, JavaScript.
+- The Coding Nana: YouTube Channel focused on my software development journey. 
 - BSc Degree in Computing and Electronic Engineering at the Open University (part-time).
+- Currently Learning: React, Flutter, Cloud Engineering.
 
+Hobbies: 
+- Reading Science Fiction, particularly: Adrian Tchaikovsky, Ann Leckie and Martha Wells.
+- Daily puzzles: Wordle, Crosswords and Sudoku. 
+- Most importantly: spoiling my cat! 
 
   
 <!--
