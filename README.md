@@ -1,6 +1,7 @@
 ## <h1 align="center">Nana Montford | Full Stack Developer</h1>
+<p align="center">LinkedIn | Youtube</p>
+
 ![Woman programming at home](https://github.com/user-attachments/assets/70203d77-df2a-4746-9fff-18e03c978e91)
-LinkedIn | Youtube <br> <br>
 About Me: 
 - Languages: HTML, CSS, JavaScript, Python.
 - Databases and frameworks: SQLite, Django, Bootstrap. 
@@ -21,7 +22,7 @@ Hobbies:
 - Daily puzzles: Wordle, Crosswords and Sudoku. 
 - Most importantly: spoiling my cat! 
 
-  
+Reach me on LinkedIn
 <!--
 **nanamontford/nanamontford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
