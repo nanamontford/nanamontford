@@ -7,7 +7,7 @@ About Me:
 - Databases and frameworks: SQLite, Django, Bootstrap.
 - Projects: Nervous System (Front End), Bee Brain (Hackathon collaborative project).
 - Skills: Object Oriented Programming, Agile Methodology, Creative Problem solving, Rapid Learning.
-- Work Experience: Marketing (Creative Director at a Social media and Video editing company), local government (Lancashire County Council), and civil service (Charity Commission).
+- Work Experience: client communication to ensure brief compliance using agile methodology (Creative Director at a Social media marketing and Video editing company), Expert data systems management (Lancashire County Council), and detailed, legally binding documentation (Charity Commission).
 - Base in Lancashire, UK. Open to remote Junior Software Developer opportunities. 
 
 What I'm working on: 
