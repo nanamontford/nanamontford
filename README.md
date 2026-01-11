@@ -4,8 +4,22 @@
 
 
 ![Woman programming at home](https://github.com/user-attachments/assets/70203d77-df2a-4746-9fff-18e03c978e91)
+LinkedIn | Youtube <br> <br>
+About Me: 
+- Languages: HTML, CSS, JavaScript, Python.
+- Databases and frameworks: SQLite, Django, Bootstrap. 
+- Skills: Object Oriented Programming, Agile Methodology, Creative Problem solving, Rapid Learning.
+- Django, Bootstrap
+- Work Experience: Marketing (Creative Director at a Social media and Video editing company), local government (Lancashire County Council), and civil service (Charity Commission).
+- Base in Lancashire, UK. Open to remote Junior Software Developer opportunities. 
 
-### <h2 align="center">What's Next?</h2>
+What I'm working on: 
+- One a week challenge: Creating a complete project every week to continue to expand my skills. Here are some examples: 
+  - Tic Tac Tile | A classic game with a twist: create a custom mosaic as you play! | Front end: HTML, CSS, JavaScript 
+- BSc Degree in Computing and Electronic Engineering at the Open University (part-time).
+
+
+  
 <!--
 **nanamontford/nanamontford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
