@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![79d92c78-b79a-441d-b250-257d4aee5e3a](https://github.com/user-attachments/assets/70203d77-df2a-4746-9fff-18e03c978e91)
+
+
 <!--
 **nanamontford/nanamontford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
