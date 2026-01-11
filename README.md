@@ -1,9 +1,11 @@
-## Hi there 👋
-
-![79d92c78-b79a-441d-b250-257d4aee5e3a](https://github.com/user-attachments/assets/70203d77-df2a-4746-9fff-18e03c978e91)
-![programmer_text_2](https://github.com/user-attachments/assets/538bcd28-5ecf-407a-97ae-0bf972d16ced)
+## <h1 align="center">Nana Montford | Full Stack Developer</h1>
 
 
+
+
+![Woman programming at home](https://github.com/user-attachments/assets/70203d77-df2a-4746-9fff-18e03c978e91)
+
+### <h2 align="center">What's Next?</h2>
 <!--
 **nanamontford/nanamontford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
