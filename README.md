@@ -2,7 +2,7 @@
 <p align="center">LinkedIn | Youtube</p>
 
 ![Woman programming at home](https://github.com/user-attachments/assets/70203d77-df2a-4746-9fff-18e03c978e91)
-<br> About Me: 
+About Me: 
 - Languages: HTML, CSS, JavaScript, Python.
 - Databases and frameworks: SQLite, Django, Bootstrap.
 - Projects: Nervous System (Front End), Bee Brain (Hackathon collaborative project).
