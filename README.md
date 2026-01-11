@@ -7,7 +7,6 @@ About Me:
 - Databases and frameworks: SQLite, Django, Bootstrap.
 - Projects: Nervous System (Front End), A Brave New Blog (Full Stack)
 - Skills: Object Oriented Programming, Agile Methodology, Creative Problem solving, Rapid Learning.
-- Django, Bootstrap
 - Work Experience: Marketing (Creative Director at a Social media and Video editing company), local government (Lancashire County Council), and civil service (Charity Commission).
 - Base in Lancashire, UK. Open to remote Junior Software Developer opportunities. 
 
