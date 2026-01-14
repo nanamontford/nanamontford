@@ -13,8 +13,8 @@
 ### What I'm working on: 
 - Learn in Public Challenge: continually creating complete projects to expand my skills. Here are some examples: 
   - [Tic Tac Tile](https://github.com/nanamontford/tic-tac-tile): A classic game with a twist: create a custom mosaic as you play! - Front end: HTML, CSS, JavaScript.
-- The Coding Nana: YouTube Channel focused on my software development journey. 
-- BSc Degree in Computing and Electronic Engineering at the Open University (part-time).
+- [The Coding Nana](https://www.youtube.com/@thecodingnana): YouTube Channel focused on my software development journey. 
+- BSc Degree in [Computing and Electronic Engineering](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-and-electronic-engineering-r62/) at the Open University (part-time).
 - Currently Learning: React, Flutter, Cloud Engineering.
 
 ### Hobbies: 
