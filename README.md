@@ -5,14 +5,14 @@
 ### About Me:
 - Languages: HTML, CSS, JavaScript, Python.
 - Databases and frameworks: SQLite, Django, Bootstrap.
-- Projects: Nervous System (Front End), Bee Brain (Hackathon collaborative project).
+- Projects: [Nervous System](https://github.com/nanamontford/bee-brain) (Front End), [Bee Brain ](https://github.com/nanamontford/bee-brain) (Hackathon collaborative project).
 - Skills: Object Oriented Programming, Agile Methodology, Creative Problem solving, Rapid Learning.
 - Work Experience: client communication to ensure brief compliance using agile methodology (Creative Director at a Social media marketing and Video editing company), Expert data systems management (Lancashire County Council), and detailed, legally binding documentation (Charity Commission).
 - Base in Lancashire, UK. Open to remote Junior Software Developer opportunities. 
 
 ### What I'm working on: 
 - One a week challenge: Creating a complete project every week to continue to expand my skills. Here are some examples: 
-  - Tic Tac Tile: A classic game with a twist: create a custom mosaic as you play! - Front end: HTML, CSS, JavaScript.
+  - [Tic Tac Tile](https://github.com/nanamontford/tic-tac-tile): A classic game with a twist: create a custom mosaic as you play! - Front end: HTML, CSS, JavaScript.
 - The Coding Nana: YouTube Channel focused on my software development journey. 
 - BSc Degree in Computing and Electronic Engineering at the Open University (part-time).
 - Currently Learning: React, Flutter, Cloud Engineering.
