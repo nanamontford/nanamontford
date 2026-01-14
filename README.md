@@ -1,5 +1,5 @@
 ## <h1 align="center">Nana Montford | Full Stack Developer</h1>
-<p align="center">LinkedIn | Youtube</p>
+<p align="center"><a href="https://www.linkedin.com/in/nana-montford/">LinkedIn</a> | <a href="https://www.youtube.com/@thecodingnana">YouTube</a></p>
 
 ![Woman programming at home](https://github.com/user-attachments/assets/70203d77-df2a-4746-9fff-18e03c978e91)
 ### About Me:
@@ -22,4 +22,4 @@
 - Daily puzzles: Wordle, Crosswords and Sudoku. 
 - Most importantly: spoiling my cat! 
 
-### <h3 align="center">Reach me on Linkedin </h3>
+### <h3 align="center">Reach me on <a href="https://www.linkedin.com/in/nana-montford/">LinkedIn</a> </h3>
