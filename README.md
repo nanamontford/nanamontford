@@ -5,7 +5,7 @@
 ### About Me:
 - Languages: HTML, CSS, JavaScript, Python.
 - Databases and frameworks: SQLite, Django, Bootstrap.
-- Projects: [Nervous System](https://github.com/nanamontford/bee-brain) (Front End), [Bee Brain](https://github.com/nanamontford/bee-brain) (Hackathon collaborative project).
+- Projects: [Nervous System](https://github.com/nanamontford/bee-brain) (Front End), [Bee Brain](https://github.com/nanamontford/bee-brain) (Hackathon collaborative project - programming, product owner and scrum master).
 - Skills: Object Oriented Programming, Agile Methodology, Creative Problem solving, Rapid Learning.
 - Work Experience: client communication to ensure brief compliance using agile methodology (Creative Director at a social media marketing and video production company), Expert data systems management (Lancashire County Council), and detailed, legally binding documentation (Charity Commission).
 - Base in Lancashire, UK. Open to Junior Software Developer opportunities. 
