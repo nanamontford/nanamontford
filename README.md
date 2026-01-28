@@ -8,7 +8,7 @@
 - Projects: [Nervous System](https://github.com/nanamontford/bee-brain) (Front End), [Bee Brain](https://github.com/nanamontford/bee-brain) (Hackathon collaborative project).
 - Skills: Object Oriented Programming, Agile Methodology, Creative Problem solving, Rapid Learning.
 - Work Experience: client communication to ensure brief compliance using agile methodology (Creative Director at a social media marketing and video production company), Expert data systems management (Lancashire County Council), and detailed, legally binding documentation (Charity Commission).
-- Base in Lancashire, UK. Open to remote Junior Software Developer opportunities. 
+- Base in Lancashire, UK. Open to Junior Software Developer opportunities. 
 
 ### What I'm working on: 
 - Learn in Public Challenge: continually creating complete projects to expand my skills. Here are some examples: 
